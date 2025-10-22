@@ -38,4 +38,5 @@
 - 💼 [Skin Cancer Classifier](https://github.com/TalalZahid/SkinCancer-ML)
 - 📊 [Budget Tracker App](https://github.com/TalalZahid/Budget-Tracker)
 - 🏋️ [Gym Management System](https://github.com/TalalZahid/Gym-Management)
+- 📝 [AI Powered NoteAPP](https://github.com/Talalzahid868/ML-Powerd-NoteApp.git)
 
