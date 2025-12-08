@@ -28,7 +28,7 @@
 
 
 
-![Talalzahid868's GitHub stats](github-readme-stats.vercel.app)
+![Talalzahid868 GitHub stats](github-readme-stats.vercel.app)
 
 ---
 
