@@ -26,6 +26,10 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Talalzahid868&layout=compact&theme=tokyonight)
 
 
+
+
+![Talalzahid868's GitHub stats](github-readme-stats.vercel.app)
+
 ---
 
 ### 🏆 Certifications
