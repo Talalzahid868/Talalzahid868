@@ -25,7 +25,6 @@
 ![Talal's GitHub stats](https://github-readme-stats.vercel.app/api?username=Talalzahid868&show_icons=true&theme=tokyonight)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Talalzahid868&layout=compact&theme=tokyonight)
 
-![Talalzahid's GitHub stats](https://github-readme-stats.vercel.app/api?username=Talalzahid868&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 
 ---
 
