@@ -21,16 +21,14 @@
 
 ---
 
-### 📈 GitHub Stats:
-![Talal's GitHub stats](https://github-readme-stats.vercel.app/api?username=Talalzahid868&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Talalzahid868&layout=compact&theme=tokyonight)
+
 
 
 ## GitHub stats  
-[![](https://github-readme-stats.vercel.app/api?username=Talalzahid868&show_icons=true)](https://github.com/Talalzahid868)
+[![Talal zahid's GitHub stats](https://github-readme-stats.vercel.app/api?username=Talalzahid868&show_icons=true)](https://github.com/Talalzahid868)
 
 ## Top languages  
-[![](https://github-readme-stats.vercel.app/api/top-langs/?username=Talalzahid868&layout=compact)](https://github.com/Talalzahid868)
+[![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Talalzahid868&layout=compact)](https://github.com/Talalzahid868)
 
 
 ---
