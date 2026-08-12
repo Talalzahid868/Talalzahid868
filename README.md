@@ -7,7 +7,7 @@ Building AI-driven applications that solve real-world problems — from precisio
 
 <p align="center">
 <a href="mailto:talalzahid8031@gmail.com"><img src="https://img.shields.io/badge/Email-talalzahid8031%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://linkedin.com/in/YOUR-LINKEDIN-HANDLE"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="www.linkedin.com/in/talal-zahid-4b4a6b301"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
 ---
